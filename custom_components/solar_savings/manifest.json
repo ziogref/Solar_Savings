@@ -1,0 +1,12 @@
+{
+  "domain": "solar_savings",
+  "name": "Solar Savings",
+  "codeowners": [
+    "@ziogref"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/ziogref/Solar_Savings",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/ziogref/Solar_Savings/issues",
+  "version": "0.1.0"
+}
